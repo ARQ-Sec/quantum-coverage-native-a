@@ -1,0 +1,12 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.arq.lab</groupId>
+  <artifactId>coverage-context</artifactId>
+  <version>1.0.0</version>
+  <properties>
+    <maven.compiler.source>8</maven.compiler.source>
+    <maven.compiler.target>8</maven.compiler.target>
+    <maven.compiler.release>8</maven.compiler.release>
+    <java.version>8</java.version>
+  </properties>
+</project>
